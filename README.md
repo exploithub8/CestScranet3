@@ -18,4 +18,3 @@ The tool is command-line based and prompts for a target (IP or domain). It runs 
 .
 .
 .
-https://github.com/exploithub8/CestScranet3.git
